@@ -6,7 +6,9 @@
 3. Git is a distributed version control system, which means that every developer has a copy of the entire repository on their local machine.
 4. Git is not a backup system, but it can be used to create backups of your code.
 5. Git is not a replacement for a good backup strategy, but it can be used in conjunction with a backup strategy.
-Git Commands
+
+## Git Commands
+
 1. git status - Check the status of your repository.
 2. git init - Initialize a new Git repository.
 3. git add - Add files to the staging area.
